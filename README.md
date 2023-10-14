@@ -21,7 +21,7 @@
 
 | Type          | Name   |
 | --------      | -----  |
-|macOS          |   Bigsur 11.6      |
+|macOS          |   Big sur 11.6      |
 |SMBIOS         |   iMac Pro 16.3   |
 | CPU           |   AMD 4750U       |  
 | GPU           |   AMD Radeon Graphics 512MB  |
