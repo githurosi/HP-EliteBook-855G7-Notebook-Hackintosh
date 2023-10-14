@@ -2,9 +2,9 @@
 
 ### Supports MacOS 10.13.x ~ 14.0.x
 
-![](Images/关于1jpg)
+![](Images/关于1.jpg)
 ![](Images/关于2.jpg)
-![](Images/关于3jpg)
+![](Images/关于3.jpg)
 
 
 ## BIOS设置（重要）
