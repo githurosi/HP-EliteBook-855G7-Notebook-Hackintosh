@@ -24,9 +24,9 @@
 |macOS          |   Bigsur 11.6      |
 |SMBIOS         |   iMac Pro 16.3   |
 | CPU           |   AMD 4750U       |  
-| GPU           |   AMD Vega 512MB  |
-| MB            |   惠普8760    |
-| NVME          |   英特尔SSDPEKNW010T8_1TB固志硬盘 |
+| GPU           |   AMD Radeon Graphics 512MB  |
+|主板           |   惠普 8760    |
+|PCIE3.0        |   英特尔 SSDPEKNW010T8_1TB固志硬盘 |
 |WIFI           |   英特尔AX200  |
 
 # 正常工作
@@ -42,6 +42,7 @@
  - [ ] 麦克风
  - [ ] 有线网卡
 
+# AMD内核设置
 将 B8000000 0000/BA000000 0000/BA000000 0090*  更改为B8 <核心数> 0000 0000/BA <核心数> 0000 0000/BA <核心数> 0000 0090*
 用与您的物理核心计数匹配的十六进制值替换<核心数>。
  
