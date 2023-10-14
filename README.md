@@ -22,7 +22,7 @@
 | Type          | Name   |
 | --------      | -----  |
 |macOS          |   Big sur 11.6      |
-|SMBIOS         |   iMac Pro 16.3   |
+|机型           |   MacBookPro16,3   |
 | CPU           |   AMD 4750U       |  
 | GPU           |   AMD Radeon Graphics 512MB  |
 |主板           |   惠普 8760    |
